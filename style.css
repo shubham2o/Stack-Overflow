@@ -11,3 +11,14 @@
 
 
 /* QUESTION 2 */
+.image1 {
+    position: relative;
+    width : 100% !important;
+}
+
+.image2 {
+    z-index: 1;
+    width : 100% !important;
+    position: absolute;
+    left: 0px;
+}
